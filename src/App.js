@@ -1,6 +1,3 @@
- 
- 
-
 function App() {
   return (
      <h1>hello lokesh</h1>
